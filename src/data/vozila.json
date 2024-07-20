@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "model": "Škoda Octavia",
+        "godiste": 2016,
+        "cena": 30,
+        "klima": true,
+        "dostupnost": true,
+        "ocene":[3,5,4,5]
+    },
+    {
+        "id": 2,
+        "model": "Opel Corsa",
+        "godiste": 2001,
+        "cena": 10,
+        "klima": false,
+        "dostupnost": true,
+        "ocene":[2,3,4]
+    },
+    {
+        "id": 3,
+        "model": "Mercedes S350",
+        "godiste": 2020,
+        "cena": 50,
+        "klima": true,
+        "dostupnost": false,
+        "ocene":[5,5,5,5]
+    },
+    {
+        "id": 4,
+        "model": "VW Golf 7",
+        "godiste": 2015,
+        "cena": 25,
+        "klima": true,
+        "dostupnost": true,
+        "ocene":[3,5,4,5,3]
+    },
+    {
+        "id": 5,
+        "model": "Audi A6",
+        "godiste": 2018,
+        "cena": 40,
+        "klima": true,
+        "dostupnost": true,
+        "ocene":[4,5,5,5]
+    },
+    {
+        "id": 6,
+        "model": "Toyota Prius",
+        "godiste": 2023,
+        "cena": 45,
+        "klima": true,
+        "dostupnost": false,
+        "ocene":[5,5]
+    }
+]
